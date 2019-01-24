@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hoogstraat</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="txt_scan">Scan een gebouw</string>
+    <string name="btn_scan">Scan</string>
+    <string name="bottom_action_history">Geschiedenis</string>
+    <string name="bottom_action_now">Nu</string>
+    <string name="bottom_action_future">Toekomst</string>
+    <string name="txt_info">Nam interdum tellus justo, non ullamcorper augue ultricies non. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi vehicula lectus nec auctor viverra. Phasellus erat nunc, tempus sed ipsum nec, iaculis pharetra velit. Curabitur dictum, magna nec pharetra dapibus, est felis porttitor felis, vel suscipit ex dolor at mauris. Morbi porta at urna non congue. Sed tellus odio, mattis et lorem scelerisque, vestibulum consectetur enim. Aliquam quis nibh malesuada, placerat lorem sed, mollis magna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+</resources>
